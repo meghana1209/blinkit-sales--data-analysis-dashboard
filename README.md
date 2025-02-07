@@ -45,7 +45,8 @@ The data used in this project is simulated for demonstration purposes.  It was g
 
 ## Screenshots
 
-[Include screenshots of your dashboard here.  This is very important!]
+![Screenshot 2025-02-07 193423](https://github.com/user-attachments/assets/8a06d8e8-684b-48fe-a1dc-abecf4d3bf96)
+
 
 ## Contributing
 

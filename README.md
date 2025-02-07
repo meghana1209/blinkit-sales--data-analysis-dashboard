@@ -39,9 +39,9 @@ The data used in this project is simulated for demonstration purposes.  It was g
 
 ## How to Use
 
-1. Clone the repository: `git clone [Your GitHub Repo Link]`
-2. Open the Power BI file (`.pbix` file) in Power BI Desktop.
-3. [Add any specific instructions if needed, e.g., if you have parameters in your dashboard.]
+1. Clone the repository: `git clone https://github.com/meghana1209/blinkit-sales--data-analysis-dashboard`
+2. Open the Power BI file (`blinkitdashboard.pbix` file) in Power BI Desktop.
+
 
 ## Screenshots
 
